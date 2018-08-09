@@ -8,7 +8,7 @@ import java.util.ResourceBundle;
 public class  DBConfig {
 
     private DBConfig() {
-        
+
     }
 
     private static final String DB_USER;
